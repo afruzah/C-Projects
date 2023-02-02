@@ -1,0 +1,15 @@
+      16      16     133
+s.c
+redirect.c
+smsh
+smsh.h
+smsh1
+smsh1.c
+smsh2
+smsh2.c
+smsh3
+smsh3.c
+smsh3_input.txt
+splitline.c
+wc
+wow.txt
